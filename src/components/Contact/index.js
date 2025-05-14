@@ -196,7 +196,7 @@ Email: kumarsaivaibhav4@gmail.com</p>
             />
             <Marker position={[17.5295894, 80.633551]}>
               <Popup>
-                Sudip lives here, come over for a cup of coffee :)
+                Sai vaibhav kumar lives here, come over for a cup of coffee :)
               </Popup>
             </Marker>
           </MapContainer>
